@@ -1,6 +1,6 @@
 baseURL = 'https://nsd-multi.yeojido.io/'
 languageCode = 'ko-KR'
-title = '낙성대 다국적노래방 엘론: ELON'
+title = '낙성대 다국적노래방 엘론 | ELON'
 
 [params]
   isAdsEnabled = true
