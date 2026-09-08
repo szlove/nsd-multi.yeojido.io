@@ -7,19 +7,19 @@ title = '낙성대 다국적노래방 엘론 | ELON'
   adsTelegramId = "ggyuvely"
 
   description = '엘론이 속한 다국적노래방은 관악구 안에서도 흔치 않은 형태입니다. 응대하는 직원 구성이 여러 국적에 걸쳐 있어, 배경이 서로 다른 사람들이 섞인 모임에서도 대화가 겉돌지 않게 이어 주는 편입니다. 한 나라 출신으로만 채워지는 여느 업종과는 이 지점에서 뚜렷이 갈리고, 낯선 조합의 회식일수록 이런 구성이 오히려 편하게 느껴질 수 있습니다.'
-  author = '두리'
+  author = '엘론'
   datePublished = "2026-08-18T09:16:00+09:00"
   dateModified = "2026-08-18T09:16:00+09:00"
   [params.store]
-  tel = "010-8306-5747"
+  tel = "010-7456-5410"
   location = "낙성대"
   locationEn = "NSD"
   name = "엘론"
   nameEn = "ELON"
   category = "다국적노래방"
   categoryEn = "Multi-KTV"
-  address = "서울 관악구"
-  googleMapSrc = "https://www.google.com/maps?q=서울+관악구&output=embed"
+  address = "서울 관악구 봉천동"
+  googleMapSrc = "https://www.google.com/maps?q=서울+관악구+봉천동&output=embed"
 	[params.store.social.kakaoTalk]
 	  id = ""
 	  link = ""
